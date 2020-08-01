@@ -1,0 +1,26 @@
+1) 
+For Mac users do the following.
+First launch the terminal application. 
+After it opens, type in git and enter.
+If you do not have git, it will ask you to install. Click install. 
+Agree to the terms of service.
+Click done.
+For windows users do the following.
+Download git bash here: https://git-scm.com/. 
+Follow all the installation steps.
+Search for the app git bash and open it.
+You can then run git in there. 
+
+For both, set up your git username and email with these links: https://docs.github.com/en/github/getting-started-with-github/set-up-git and https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
+Secure your git respository with HTTPS. Cache your password here: https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git
+
+
+2)
+
+
+3)
+I personally believe that GitHub is the best as it makes the proccess as automatic as it can be, and it allows you to collaberate with other people in your group and all commit to and change the same code. It also has the GitHub app which makes it extremly easy to push code as you can just hit a push button on the app instead of having to remember commands. 
+Mercurial is also decent, but it is better for a 2 person group. When you have a larger group, GitHub is good. GitHub is especially good for when you have newer less experienced people on your team or when you want to add new people to your team mid project. 
+GitHub is also very easy to teach beginners how to use. 
+SVN is more old school, with only one central location that everyone pulls/pushes to, while the other two let everyone have their own branches to work on, which is better and more common nowadays.
+Therefore, GitHub is the best out of the three for its distributed system and ease of use. 
